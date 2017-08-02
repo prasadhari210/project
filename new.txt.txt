@@ -1,6 +1,10 @@
 hi new
 <<<<<<< HEAD
+<<<<<<< HEAD
 adding new line
 =======
 adding new line from
 >>>>>>> 51eb38b53613bbb3979bd59534508be737fe921b
+=======
+adding new line
+>>>>>>> 2cc5fc1... adding data
