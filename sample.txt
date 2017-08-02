@@ -1,7 +1,5 @@
 hi this is git hub new project
 hi this is new change
-<<<<<<< HEAD
 hi hello new change adding new data
-=======
 hi hello new change 3rd change
->>>>>>> 9902c5f6de5bf889cfdbb3246743fba33a0f12ce
+
