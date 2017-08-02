@@ -1,2 +1,6 @@
 hi new
+<<<<<<< HEAD
 adding new line
+=======
+adding new line from
+>>>>>>> 51eb38b53613bbb3979bd59534508be737fe921b
