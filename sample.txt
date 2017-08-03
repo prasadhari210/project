@@ -1,13 +1,8 @@
 hi this is git hub new project
 hi this is new change
 hi hello new change adding new data
-<<<<<<< HEAD
 hi hello new change 3rd change git conflict
-
 git stash
-
-=======
 hi hello new change 3rd change git hub change
-
 git stash
->>>>>>> 817159adfc674a09d859b444667f53a7787d7569
+
